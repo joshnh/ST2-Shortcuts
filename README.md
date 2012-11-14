@@ -46,9 +46,12 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and select a number | Fold all blocks indented to level 1, 2, 3, etc. |
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>0</kbd> | Unfold everything |
 
-### Other
+### Bookmarks
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>F2</kbd> |  Navigate to next bookmark |
-| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove Bookmark |
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove Bookmark (remembers selection)|
+| <kbd>F2</kbd> |  Next bookmark |
+| <kbd>⇧</kbd> <kbd>F2</kbd> |  Previous bookmark |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F2</kbd> |  Remove all bookmarks |
+| <kbd>⌥</kbd> <kbd>F2</kbd> |  Select all bookmarks |
