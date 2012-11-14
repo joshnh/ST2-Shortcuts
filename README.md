@@ -45,3 +45,10 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>T</kbd> | Fold all tag attributes |
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and select a number | Fold all blocks indented to level 1, 2, 3, etc. |
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>0</kbd> | Unfold everything |
+
+### Other
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>F2</kbd> |  Navigate to next bookmark |
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Toggle Bookmark |
