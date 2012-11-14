@@ -1,5 +1,7 @@
 # Useful Sublime Text 2 Keyboard Shortcuts
 
+_This is a work in progress._
+
 ### Application
 
 | Shortcut | Description |
