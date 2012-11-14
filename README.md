@@ -50,7 +50,7 @@ _This is a work in progress._
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove Bookmark (remembers selection)|
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove bookmark (remembers selection)|
 | <kbd>F2</kbd> |  Next bookmark |
 | <kbd>⇧</kbd> <kbd>F2</kbd> |  Previous bookmark |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F2</kbd> |  Remove all bookmarks |
