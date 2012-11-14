@@ -14,5 +14,8 @@
 | <kbd>⌘</kbd> <kbd>W</kbd> | Close Tab |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>N</kbd> | New Window |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>W</kbd> | Close Window |
+| <kbd>⌘</kbd> <kbd>B</kbd>/<kbd>K</kbd> | Toggle side bar |
+| <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
+| <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
 
 ### Editing shortcuts:
