@@ -51,4 +51,4 @@ _This is a work in progress._
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>F2</kbd> |  Navigate to next bookmark |
-| <kbd>⌘</kbd> <kbd>F2</kbd> |  Toggle Bookmark |
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove Bookmark |
