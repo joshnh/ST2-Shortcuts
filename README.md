@@ -1,6 +1,6 @@
 # Useful Sublime Text 2 Keyboard Shortcuts
 
-### Application shortcuts:
+### Application
 
 | Shortcut | Description |
 | -------- | ----------- |
@@ -18,4 +18,28 @@
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
 
-### Editing shortcuts:
+### Editing
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> <kbd>Z</kbd> | Undo |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>Z</kbd> | Redo |
+| <kbd>⌘</kbd> <kbd>U</kbd> | Soft undo |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>U</kbd> | Soft redo |
+| <kbd>⌘</kbd> <kbd>Y</kbd> | Repeat |
+| <kbd>⌘</kbd> <kbd>X</kbd> | Cut |
+| <kbd>⌘</kbd> <kbd>C</kbd> | Copy |
+| <kbd>⌘</kbd> <kbd>V</kbd> | Paste |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>V</kbd> | Paste and indent |
+| <kbd>⌘</kbd> <kbd>]</kbd> | Indent |
+| <kbd>⌘</kbd> <kbd>[</kbd> | Unindent |
+
+### Code Folding
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>[</kbd> | Fold |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>]</kbd> | Unfold |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>T</kbd> | Fold all tag attributes |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and select a number | Fold all blocks indented to level 1, 2, 3, etc. |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>0</kbd> | Unfold everything |
