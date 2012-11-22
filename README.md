@@ -26,8 +26,8 @@ _This is a work in progress._
 | -------- | ----------- |
 | <kbd>⌘</kbd> <kbd>Z</kbd> | Undo |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>Z</kbd> | Redo |
-| <kbd>⌘</kbd> <kbd>U</kbd> | Soft undo |
-| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>U</kbd> | Soft redo |
+| <kbd>⌘</kbd> <kbd>U</kbd> | Soft undo (remembers cursor location) |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>U</kbd> | Soft redo (remembers cursor location) |
 | <kbd>⌘</kbd> <kbd>Y</kbd> | Repeat |
 | <kbd>⌘</kbd> <kbd>X</kbd> | Cut |
 | <kbd>⌘</kbd> <kbd>C</kbd> | Copy |
