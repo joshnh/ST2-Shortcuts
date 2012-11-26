@@ -61,3 +61,7 @@ _This is a work in progress._
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌘</kbd> <kbd>F</kbd> | Find |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Find  in files |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>F</kbd> | Replace |
+| <kbd>⌘</kbd> <kbd>G</kbd> | Find next |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>G</kbd> | Find previous |
