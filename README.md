@@ -20,6 +20,26 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
 
+### Bookmarks
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove bookmark (remembers selection)|
+| <kbd>F2</kbd> |  Next bookmark |
+| <kbd>⇧</kbd> <kbd>F2</kbd> |  Previous bookmark |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F2</kbd> |  Remove all bookmarks |
+| <kbd>⌥</kbd> <kbd>F2</kbd> |  Select all bookmarks |
+
+### Code Folding
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>[</kbd> | Fold |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>]</kbd> | Unfold |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>T</kbd> | Fold all tag attributes |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and select a number | Fold all blocks indented to level 1, 2, 3, etc. |
+| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>0</kbd> | Unfold everything |
+
 ### Editing
 
 | Shortcut | Description |
@@ -36,22 +56,8 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>]</kbd> | Indent |
 | <kbd>⌘</kbd> <kbd>[</kbd> | Unindent |
 
-### Code Folding
+### Find
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>[</kbd> | Fold |
-| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>]</kbd> | Unfold |
-| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>T</kbd> | Fold all tag attributes |
-| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and select a number | Fold all blocks indented to level 1, 2, 3, etc. |
-| <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>0</kbd> | Unfold everything |
-
-### Bookmarks
-
-| Shortcut | Description |
-| -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove bookmark (remembers selection)|
-| <kbd>F2</kbd> |  Next bookmark |
-| <kbd>⇧</kbd> <kbd>F2</kbd> |  Previous bookmark |
-| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F2</kbd> |  Remove all bookmarks |
-| <kbd>⌥</kbd> <kbd>F2</kbd> |  Select all bookmarks |
+| <kbd>⌘</kbd> <kbd>F</kbd> | Find |
