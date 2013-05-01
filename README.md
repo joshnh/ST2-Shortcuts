@@ -11,7 +11,7 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>S</kbd> | Save file as |
 | <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>S</kbd> | Save all open files|
 | <kbd>⌘</kbd> <kbd>O</kbd> | Open file |
-| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>O</kbd> | Reopen last closed file |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>T</kbd> | Reopen last closed file |
 | <kbd>⌘</kbd> <kbd>N</kbd> | New Tab |
 | <kbd>⌘</kbd> <kbd>W</kbd> | Close Tab |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>N</kbd> | New Window |
@@ -19,12 +19,13 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>B</kbd>/<kbd>K</kbd> | Toggle side bar |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>P</kbd> | Command palette |
 
 ### Bookmarks
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove bookmark (remembers selection)|
+| <kbd>⌘</kbd> <kbd>F2</kbd> |  Add/remove bookmark (remembers selection) |
 | <kbd>F2</kbd> |  Next bookmark |
 | <kbd>⇧</kbd> <kbd>F2</kbd> |  Previous bookmark |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>F2</kbd> |  Remove all bookmarks |
@@ -55,6 +56,10 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>V</kbd> | Paste and indent |
 | <kbd>⌘</kbd> <kbd>]</kbd> | Indent |
 | <kbd>⌘</kbd> <kbd>[</kbd> | Unindent |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>D</kbd> | Duplicate line |
+| <kbd>⌘</kbd> <kbd>L</kbd> | Expand selection to line |
+| <kbd>⌘</kbd> <kbd>R</kbd> | Go to symbol |
+| <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>W</kbd> | Wrap selection with tag |
 
 ### Find
 
