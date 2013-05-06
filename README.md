@@ -20,6 +20,9 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>P</kbd> | Command palette |
+| <kbd>⌘</kbd> <kbd>,</kbd> | User Settings |
+| <kbd>⌘</kbd> <kbd>=</kbd> | Increase Font Size |
+| <kbd>⌘</kbd> <kbd>-</kbd> | Decrease Font Size |
 
 ### Bookmarks
 
