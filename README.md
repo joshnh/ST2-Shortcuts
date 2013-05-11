@@ -16,7 +16,10 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>W</kbd> | Close Tab |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>N</kbd> | New Window |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>W</kbd> | Close Window |
-| <kbd>⌘</kbd> <kbd>B</kbd>/<kbd>K</kbd> | Toggle side bar |
+| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>[1-4]</kbd> | Split window to n columns |
+| <kbd>⌃</kbd> <kbd>[1-4]</kbd> | Focus on column n |
+| <kbd>⇧</kbd> <kbd>⌃</kbd> <kbd>[1-4]</kbd> | Move file to column n |
+| <kbd>⌘</kbd> <kbd>K</kbd>/<kbd>B</kbd> | Toggle side bar |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>P</kbd> | Command palette |
@@ -60,9 +63,18 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>]</kbd> | Indent |
 | <kbd>⌘</kbd> <kbd>[</kbd> | Unindent |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>D</kbd> | Duplicate line |
+| <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>↑</kbd>/<kbd>↓</kbd> | Move line up/down |
+| <kbd>⌘</kbd> <kbd>⏎</kbd>/<kbd>↓</kbd> | Insert line below |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>⏎</kbd>/<kbd>↓</kbd> | Insert line above |
+| <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>G</kbd> | Multi-select all in file |
 | <kbd>⌘</kbd> <kbd>L</kbd> | Expand selection to line |
 | <kbd>⌘</kbd> <kbd>R</kbd> | Go to symbol |
 | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>W</kbd> | Wrap selection with tag |
+| <kbd>⌘</kbd> <kbd>K</kbd>/<kbd>U</kbd> | Uppercase the selection |
+| <kbd>⌘</kbd> <kbd>K</kbd>/<kbd>L</kbd> | Lowercase the selection |
+| <kbd>⌘</kbd> <kbd>K</kbd>/<kbd>T</kbd> | Titlecase the selection |
+| <kbd>⌃</kbd> <kbd>M</kbd> | Move to matching bracket |
+| <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>M</kbd> | Select to matching bracket |
 
 ### Find
 
