@@ -16,9 +16,9 @@ _This is a work in progress._
 | <kbd>⌘</kbd> <kbd>W</kbd> | Close Tab |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>N</kbd> | New Window |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>W</kbd> | Close Window |
-| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>[1-4]</kbd> | Split window to n columns |
-| <kbd>⌃</kbd> <kbd>[1-4]</kbd> | Focus on column n |
-| <kbd>⇧</kbd> <kbd>⌃</kbd> <kbd>[1-4]</kbd> | Move file to column n |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>[1-4]</kbd> | Split window to n columns |
+| <kbd>⌃</kbd> <kbd>[1-4]</kbd> | Focus on column [1-4] |
+| <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>[1-4]</kbd> | Move file to column  [1-4] |
 | <kbd>⌘</kbd> <kbd>K</kbd>, continue holding <kbd>⌘</kbd> and press <kbd>B</kbd> | Toggle side bar |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>F</kbd> | Toggle full screen mode |
 | <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>F</kbd> | Toggle distraction free mode |
